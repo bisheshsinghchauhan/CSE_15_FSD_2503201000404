@@ -6,3 +6,4 @@ myEmitter.on('click', () => {
 });
 //trigger the event
 myEmitter.emit('click');
+//abcd
