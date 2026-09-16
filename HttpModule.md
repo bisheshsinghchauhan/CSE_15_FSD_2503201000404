@@ -5,6 +5,6 @@ for each containing id:1 and name: "laptop"
 
 FIRST take http as import or const
 create a server 
-then write head 
+then write header and install packages
 end the res
 display by listen.
